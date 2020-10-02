@@ -207,18 +207,5 @@ float: right;
   
   
 
-  @media only screen and (min-width: 320px) and (max-width: 992px) {
-    .topnav {
-      
-      height:230px;
-      flex-direction: column;
-      text-align:center;
-    }
-    .topnav-right {
-      height:230px;
-      flex-direction: column;
-      text-align:center;
-    }
-  }
-
+  
   
